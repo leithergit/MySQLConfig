@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/MySQLConfig">
+    <file>MySQL32.ICO</file>
+    <file>MySQL.ICO</file>
+    <file>dialog-cancel-2.ico</file>
+    <file>dialog-ok-2.ico</file>
+    <file>close.png</file>
+    <file>folder-open.ico</file>
+    <file>open.png</file>
+    <file>UAC.ico</file>
+  </qresource>
+</RCC>
